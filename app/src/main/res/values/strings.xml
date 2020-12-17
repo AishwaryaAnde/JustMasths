@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Just Masths</string>
+    <string name="time_01">Time : 01</string>
+    <string name="just_maths">Just Maths</string>
+    <string name="current_score_00">Current Score : 00</string>
+    <string name="_11_64">11+64</string>
+    <string name="_75">=75</string>
+    <string name="score_00">SCORE: 00</string>
+    <string name="time_59">TIME :59</string>
+</resources>
